@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 8.0
+#Version: 1.0
+#Date: 2015-10-27 23:00:50
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2015-10-27 23:00:50 ::1 GET /frm_MES.aspx - 10341 - ::1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:41.0)+Gecko/20100101+Firefox/41.0 - 301 0 0 8937
